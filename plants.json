@@ -1,0 +1,9 @@
+{
+    "plants":[
+        {"title":"Лілії","photo":"https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BB%D0%B8%D1%8F","prise": 150, "favorite":true},
+        {"title":"Троянди","photo":"https://ascania-flora.ua/catalog","prise": 550, "favorite":true},
+        {"title":"Кульбаба","photo":"https://agrarii-razom.com.ua/culture/kulbaba-likarska","prise": 350, "favorite":false},
+        {"title":"Подорожник","photo":"","prise": 50, "favorite":true},
+        {"title":"Лілії","photo":"https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BB%D0%B8%D1%8F","prise": 150, "favorite":false}
+    ]
+}
